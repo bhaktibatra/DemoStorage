@@ -1,0 +1,22 @@
+{
+  "name": "TestLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of TestLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bhaktibatra/TestLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bhaktibatra": "your_email@example.com"
+  },
+  "source": {
+    "git": "https://github.com/bhaktibatra/TestLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestLibrary/Classes/**/*"
+}

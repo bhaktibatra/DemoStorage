@@ -1,0 +1,16 @@
+PODS:
+  - TestLibrary (0.1.0)
+
+DEPENDENCIES:
+  - TestLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  TestLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestLibrary: 949aa5bac6f4b11d7642683b3c132773c594d6d6
+
+PODFILE CHECKSUM: 505be9c3454749b0cd4cf3c484d36b2b9ce06058
+
+COCOAPODS: 1.15.2
